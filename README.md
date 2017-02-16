@@ -25,8 +25,8 @@ I saw a slide [reflectionsfrom 52 weeks 52 projects](https://speakerdeck.com/jef
 11. (01/19) 延遲 (01/20) https://github.com/seekyiyi/oVirt
 12. (01/26) https://github.com/seekyiyi/fuel-
 13. (02/02) https://github.com/seekyiyi/openstack-1-
-14. (02/09)
-15. (02/16)
+14. (02/09) 延遲(2/16) https://github.com/seekyiyi/openstack-2-
+15. (02/16) https://github.com/seekyiyi/openstack-set
 16. (02/23)
 17. (03/02)
 18. (03/09)
